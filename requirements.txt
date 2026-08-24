@@ -1,0 +1,10 @@
+chromadb
+sentence-transformers
+fastapi
+uvicorn
+pymupdf
+openai
+pydantic
+torch
+gradio
+httpx
