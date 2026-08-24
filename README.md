@@ -1,13 +1,5 @@
 ﻿# Sistem RAG - Manajemen Akreditasi Program Studi
 
-Sistem RAG (Retrieval-Augmented Generation) untuk manajemen akreditasi program studi. Menggunakan Open WebUI + Ollama + GLM-4.7-Flash untuk menjawab pertanyaan berdasarkan dokumen akreditasi.
-
-## Persiapan
-
-- File `open-webui-rag.tar` dari Google Drive
-- Komputer server dengan GPU 24GB+ VRAM (untuk GLM-4.7-Flash)
-- Docker terinstall
-
 ## Langkah 1: Pindahkan File Tar
 
 1. Download `open-webui-rag.tar` dari Google Drive
